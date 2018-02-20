@@ -1,4 +1,4 @@
--- File: xor.vhd
+-- File: xor.vhd 432 kabo kompai slabni
 library ieee;
 use ieee.std_logic_1164.all;
 
